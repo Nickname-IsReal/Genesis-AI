@@ -1,0 +1,9 @@
+{
+  "name": "Genesis AI",
+  "description": "A high-performance AI assistant with a game-inspired UI, featuring Thinking Mode, Grounding, and Multimodal capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
